@@ -1,6 +1,6 @@
 
 ## 👋 Heyy, I am Shreya!
-🖥️ I am a budding Bioinformatician<br>🧬I have worked on omics data analysis such as genomics, transcriptomics and metagenomics<br>👩‍💻 I’m currently learning single-cell RNAseq analysis, GWAS and much more! <br>🐶 In my free time, I love cuddling my dogs <br><br>
+🖥️ I am a Bioinformatician<br>🧬I have worked on omics data analysis such as genomics, transcriptomics and metagenomics<br>👩‍💻 I’m currently learning single-cell RNAseq analysis, GWAS and much more! <br>🐶 In my free time, I love cuddling my dogs <br><br>
 
 ---
 
